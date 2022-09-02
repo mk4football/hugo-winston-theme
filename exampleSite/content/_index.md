@@ -9,12 +9,4 @@ I currently play for Fraser Park FC (Youth League 3) as a Centre Back.
 
 You can view  highights of my games here: 
 
-<iframe
-    width="640"
-    height="480"
-    src="https://www.youtube.com/embed/VubbOijVACM"
-    frameborder="0"
-    allow="autoplay; encrypted-media"
-    allowfullscreen
->
-</iframe>
+[![IMAGE_ALT](https://img.youtube.com/vi/VubbOijVACM/0.jpg)](https://www.youtube.com/watch?v=VubbOijVACM)
