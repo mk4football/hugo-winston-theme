@@ -5,8 +5,8 @@ description: My name is Matthew Kim-Aghnatios and I am a passionate footballer. 
 
 My name is Matthew Kim-Aghnatios and I am a passionate footballer. 
 
-I currently play for Fraser Park FC (Youth League 3) as a Centre Back.
+I currently play for [Fraser Park FC (Youth League 3)](https://competitions.footballnsw.com.au/player/?hash_id=R3NPLkVDNr) as a Centre Back in the U14s and sometimes in the U15s teams.
 
-You can view highights of my games here from the 2022 season in the YouTube video below which also includes my contact details: 
+You can view highights of my games from the 2022 season in the YouTube video below which also includes my contact details: 
 
 [![IMAGE_ALT](images/YTLink.png)](https://www.youtube.com/watch?v=TQQC_JKSftI)
