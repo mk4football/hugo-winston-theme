@@ -9,4 +9,4 @@ I currently play for Fraser Park FC (Youth League 3) as a Centre Back.
 
 You can view highights of my games here from the 2022 season here including contact details: 
 
-[![IMAGE_ALT](https://img.youtube.com/vi/TQQC_JKSftI/0.jpg)](https://www.youtube.com/watch?v=TQQC_JKSftI)
+[![IMAGE_ALT](images/Thumbnail.png)](https://www.youtube.com/watch?v=TQQC_JKSftI)
