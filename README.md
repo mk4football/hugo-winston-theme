@@ -102,7 +102,7 @@ Now enter [`localhost:1313`](http://localhost:1313) in the address bar of your b
 ```
 // config.toml
 [params]
-  google_analytics_id = ""
+  google_analytics_id = "330279106"
   twitter_handle = "@zerostaticio"
   showAuthorOnHomepage = true
   showAuthorOnPosts = false
@@ -118,7 +118,7 @@ Add you google analytics ID to the `config.toml`
 ```
 // config.toml
 [params]
-  google_analytics_id="UA-132398315-1"
+  google_analytics_id="330279106"
 ```
 
 # Deploying to Netlify
