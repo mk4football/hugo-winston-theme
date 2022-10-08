@@ -9,4 +9,4 @@ I currently play for [Fraser Park FC (Youth League 3)](https://competitions.foot
 
 You can view highights of my games from the 2022 season in the YouTube video below which also includes my contact details: 
 
-[![IMAGE_ALT](images/YTLink.png)](https://www.youtube.com/watch?v=TQQC_JKSftI)
+[![IMAGE_ALT](images/YTLink.png)](https://www.youtube.com/watch?v=CjTpviXE0YU)
