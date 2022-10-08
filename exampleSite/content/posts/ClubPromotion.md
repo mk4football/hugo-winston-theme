@@ -1,6 +1,6 @@
 ---
 title: We are promoted to Youth League 2 !
-date: 2022-09-02
+date: 2022-10-02
 description: 'Fraser Park has been promoted to Youth League 2'
 image: images/ClubChampionship.png
 ---
