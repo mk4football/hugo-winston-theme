@@ -8,6 +8,6 @@ image: images/ClubChampionship.png
 ## Getting promoted?
 
 
-Exciting times ahead as we approach the last few games of the 2022 season. Promotion is imminent!
+Exciting times ahead as we enter Youth League 2 in the 2023 season.
 
 [Club Championship](https://competitions.footballnsw.com.au/championship/)
