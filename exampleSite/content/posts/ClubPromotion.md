@@ -1,7 +1,7 @@
 ---
-title: We might get promoted to Youth League 2 !
+title: We are promoted to Youth League 2 !
 date: 2022-09-02
-description: 'Fraser Park might get promoted to Youth League 2'
+description: 'Fraser Park has been promoted to Youth League 2'
 image: images/ClubChampionship.png
 ---
 
